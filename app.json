@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "what-imc",
+    "slug": "what-imc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#06070f"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#06070f"
+      },
+      "package": "com.leopsam.whatimc"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7dd7c09f-4cb4-4f11-8da9-47b7ffb2ddf5"
+      }
+    },
+    "owner": "leopsam"
+  }
+}
